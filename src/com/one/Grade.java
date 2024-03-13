@@ -43,8 +43,9 @@ public class Grade
 
         else
         {
-            System.out.println("You are failed");
+            System.out.println("You are  Passed");
         }
+          
         scanner.close();
 	}
 
